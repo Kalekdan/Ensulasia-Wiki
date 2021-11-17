@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia people</title>
+        <description></description>
+        <link>https://pixolestudios.com/wiki/</link>
+        <image rdf:resource="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2020-06-27T07:31:48-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=people:frinly&amp;rev=1556110072&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=people:mazoon&amp;rev=1556110718&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>https://pixolestudios.com/wiki/</link>
+        <url>https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=people:frinly&amp;rev=1556110072&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:47:52-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>people:frinly</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=people:frinly&amp;rev=1556110072&amp;do=diff</link>
+        <description>Frinly
+
+An elderly human man, and the owner and barkeep at The Grey Dog, Frinly has lived in Tharmouth all his life. Frinly is a strong advocate for the empire and will often talk of their greatness whilst serving at his bar. He lives alone having lost his children and wife during the</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=people:mazoon&amp;rev=1556110718&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:58:38-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>people:mazoon</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=people:mazoon&amp;rev=1556110718&amp;do=diff</link>
+        <description>Mazoon
+
+An Elfish man originally from Hapeston, Mazoon trained as a bard and traveled around Ensulasia performing in many different venues. Since the Civil War however, Mazoon tends to stick to performing in inns and buildings closer to his hometown in the south west. He is generally oblivious to the politics which caused the war but has found his</description>
+    </item>
+</rdf:RDF>

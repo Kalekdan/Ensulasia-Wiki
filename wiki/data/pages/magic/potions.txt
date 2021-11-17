@@ -1,0 +1,19 @@
+====== Potions ======
+Extracting essence from substances can produce a liquid which can then be used to give whoever consumes it, magical effects or abilities. The effect that each [[:magic:ingredients|ingredient]] will provide is different, and combinations of these ingredients can lead to even more variations. This is one of the reasons why it can take years studying potions before one is even able to create a simple [[:magic:potions:glow potion]]. The other difficulty with producing potions is knowing how to extract the essence for the substance you are working with.
+
+===== Extracting essence =====
+There are many different ways of extracting the [[:magic]] essence from the ingredients used in potion making. They will result in the essence being in different forms (liquids, powders, energies etc.) which can be beneficial when trying to make specific concoctions. Many different ingredients require the essence to be extracted differently as well.
+  * Grinding
+    * Normally used for hard substances such as bone or stone. The ingredient is crushed repeatedly until a fine powder is produced
+  * Steeping
+    * Boiling the ingredient in water (or other liquids in some cases) will infuse the liquid with essence of the ingredient. From this point the liquid is generally used although some potions require the steeped substance as well.
+  * Squashing
+    * Different to grinding, this is generally saved for plant type ingredients where a sap type substance can be extracted when it is pressed between two objects.
+  * Drying
+    * Often used in advance of grinding the ingredient but is also sometimes used in isolation. This is the process of heating the ingredient over a dry heat or leaving it on a drying rack for extended periods to draw out as much moisture as possible.
+
+===== Named potions =====
+Whilst there is theoretically no limit on the potions possible to create, there are many classified for their combination of useful effects or practicality, or just how often they end up being created (sometimes unintentionally):
+  * [[:magic:potions:Glow potion]]
+  * [[:magic:potions:Whistling potion]]
+  * [[:magic:potions:Grey puddle potion]]

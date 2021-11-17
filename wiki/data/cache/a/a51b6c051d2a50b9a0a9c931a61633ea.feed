@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia magic:potions</title>
+        <description></description>
+        <link>http://pixolestudios.com/wiki/</link>
+        <image rdf:resource="http://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-08-25T16:37:25-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://pixolestudios.com/wiki/doku.php?id=magic:potions:glow_potion&amp;rev=1551367874&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>http://pixolestudios.com/wiki/</link>
+        <url>http://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://pixolestudios.com/wiki/doku.php?id=magic:potions:glow_potion&amp;rev=1551367874&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T09:31:14-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:potions:glow_potion</title>
+        <link>http://pixolestudios.com/wiki/doku.php?id=magic:potions:glow_potion&amp;rev=1551367874&amp;do=diff</link>
+        <description>Glow potion
+
+The glow potion is generally the first potion an individual will learn to make when studying potion making. It is seen as the most straightforward potion since it only has a few ingredients. It is also recommended as a beginners potion as making it incorrectly will only lead to other harmless potions such as the</description>
+    </item>
+</rdf:RDF>

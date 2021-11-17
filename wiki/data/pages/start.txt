@@ -1,0 +1,22 @@
+**Old starting page - left here for consistency sake, please refer to [[Welcome to Ensulasia]]**
+\\ 
+\\ 
+\\ 
+====== Welcome! ======
+Welcome to my worldbuilding wiki! This is place I will use to create and catalogue all the lore and information about the fictional world of [[Ensulasia]]
+
+''note: links which are yet to be named should be filled in with [[:emptyLink]]. Then can go reverse check all links like this and add names when decided''
+
+===== Explore =====
+
+[[Magic]]\\ 
+[[Timeline]]\\ 
+[[Places]]\\ 
+[[People]]\\ 
+[[Fauna]]\\ 
+[[Flora]]\\ 
+[[Guilds and Factions]]\\
+
+===== Worldbuilding =====
+[[Prompts]] - Whilst mostly for personal use to help flesh out the world of [[Ensulasia]], more focused details can be found here which may be of interest to some.\\ 
+[[Notes]] - Mostly for just getting some stuff off my brain and written down, most of this content will end up sorted into actual wiki articles eventually.

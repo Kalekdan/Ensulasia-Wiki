@@ -1,0 +1,4 @@
+====== Elves ======
+The Elves are one of the most prevalent [[:races]] in [[:Ensulasia]] (as well as [[:races:humans]]). They have lived alongside humans for centuries. Elves are naturally very wise and logical, sometimes leading them to be considered cold. The [[:races:humans]] on the other hand are generally much more aware of morals and as such the two races have been very successful together.
+
+Elves tend to be the most adept at making [[:magic:potions]].

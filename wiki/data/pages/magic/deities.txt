@@ -1,0 +1,17 @@
+====== Deities ======
+Deities are said to be the only beings made up entirely of [[:magic]] essence and will impart it only to their most loyal followers. Anybody can request of a deity but most will not recieve. The most well known of magical beings are the Gods of the various religions in [[:Ensulasia]]. [[magic:Religion]] is a large part of life to many. The most prevalent religion in [[:places:Tharmouth]] (the capital of [[:Ensulasia]] and the base of the empire) is [[:emptyLink]].  An individual will choose to pray to the God who they believe is most likely to use their magic essence to provide them what they desire. Those with more favor with a God are more likely to receive as such.
+
+===== The Gods of [[:emptyLink]] =====
+
+==== Remani - God of Health ====
+
+==== Taaskin - God of Harvest ====
+The vast agricultural population of [[:Ensulasia]] will pray to [[:magic:deities:Taaskin]] whenever they require a good crop or wish for their livestock to become more plentiful. To earn favor with [[:magic:deities:Taaskin]] many farmers hold regular ceremonies to him and will offer a portion of their yield as thanks.
+==== Forteus - God of War ====
+
+==== Lucra - God of Wealth ====
+
+==== Igniqua - God of the Elements ====
+
+==== Satri - God of Magic/Life ====
+Generally seen as the most powerful of the Gods, [[:magic:deities:Satri]] has the power to impart vast amounts of [[:magic]] essence to those deemed worthy, most notably, the other Gods. Legend says that she was the first being in existence and placed a portion of herself into every living thing. Those who respectfully study and learn to access this essence can use the magic through their own means ([[:magic:potions]], [[:magic:incantations]] etc.) Those who practice dark arts such as [[:magic:soul magic]] are said to be stealing from [[:magic:deities:Satri]], displeasing both her and her followers. Very few people pray directly to [[:magic:deities:Satri]] out of respect. They do not wish to be asking much of her when she has already provided life and magic to everything. Even those who do pray are unlikely to receive.

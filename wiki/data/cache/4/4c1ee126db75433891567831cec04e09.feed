@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://www.pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia notableevents</title>
+        <description></description>
+        <link>http://www.pixolestudios.com/wiki/</link>
+        <image rdf:resource="http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2021-01-10T23:25:34-0600</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=notableevents:civil_war&amp;rev=1552296412&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>http://www.pixolestudios.com/wiki/</link>
+        <url>http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=notableevents:civil_war&amp;rev=1552296412&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-11T04:26:52-0600</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>notableevents:civil_war</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=notableevents:civil_war&amp;rev=1552296412&amp;do=diff</link>
+        <description>The Civil War
+
+When the usage of magic was banned in Ensulasia, many peoples way of life was completely turned on its head. Not only is magic a deeply important thing to many Ensulasians on a spiritual level, but many people relied on it for their professions and to support their families. The initial uproar was huge but soon people realized that protesting was not making any changes (if anything it was hurting as people would be beaten in the streets or go missing over night). After a few month…</description>
+    </item>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+====== Fauna ======
+
+There is a huge abundance of life in [[:Ensulasia]], both on land as well as the surrounding seas. Many citizens of [[:Ensulasia]] do not know the technical names of many of the creatures that live around them so colloquial names are given for many of them. These also translate better between the many different indigenous groups around [[:Ensulasia]].
+
+===== Deep ocean creatures =====
+  * [[:fauna:Algrex]] - "The pack hunting squid"
+===== Fish =====
+===== Land predators =====
+===== Large land mammals =====
+  * [[:fauna:Cartines]] - "The horned horses"
+===== Amphibians =====
+  * [[:fauna:Glitor frog]] - "The winged frog"
+===== Insects and bugs =====
+  * [[:fauna:Carpet leech]] - "The carnivorous quicksand"
+===== Birds =====
+  * [[:fauna:Nitari]] - "The glowing birds"
+===== Domesticated creatures =====
+  * [[:fauna:Cartines]] - "The horned horses"

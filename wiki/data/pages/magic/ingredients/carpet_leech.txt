@@ -1,0 +1,5 @@
+====== Carpet Leech (ingredient) ======
+
+Carpet leeches, whilst fairly high in number, are difficult to obtain due to the danger a colony of them can pose. They are however, very useful in many [[:magic:potions]].
+
+From a [[:fauna:carpet leech]], essence is extracted in a couple of ways. Most commonly the leech is dried and then ground into a fine powder. In some more complex recipes, the carpet leech is squashed to extract the blood. One must take care that the leech has not eaten recently when creating potions using this ingredient as there is the chance that more of the blood from its previous meal will end up in the potion than that of the leech itself. This can dramatically change the outcome of the potion.

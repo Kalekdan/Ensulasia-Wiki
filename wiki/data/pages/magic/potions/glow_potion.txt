@@ -1,0 +1,9 @@
+====== Glow potion ======
+The glow potion is generally the first [[:magic:potions|potion]] an individual will learn to make when studying potion making. It is seen as the most straightforward potion since it only has a few [[magic:ingredients]]. It is also recommended as a beginners potion as making it incorrectly will only lead to other harmless potions such as the [[:magic:potions:grey puddle potion]] and the [[:magic:potions:whistling potion]]. (Making some potions incorrectly can lead to potentially dangerous side-effects)
+
+
+----
+===== Recipe =====
+==== Ingredients (likely to change once more ingredients exist) ====
+^Essence                   ^ Extracted from                ^ By means of (see [[:magic:Potions]])  ^
+|[[:magic:ingredients:Algrex barbs|Algrex barb dust]]|[[:magic:ingredients:Algrex barbs]]|Grinding|

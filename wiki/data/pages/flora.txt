@@ -1,0 +1,9 @@
+====== Flora ======
+There is a vast array of plant life in [[:Ensulasia]].
+
+===== Trees =====
+  * [[flora:Skywood trees]]
+===== Flowers =====
+  * [[flora:Mountain Thorn]]
+===== Fungi =====
+===== Other plants =====

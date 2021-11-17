@@ -1,0 +1,6 @@
+====== Races ======
+There are many humanoid races on [[:Ensulasia]]. Breeding between these races is generally possible (not always accepted however) which can result in varous [[:races:hybrid races]]. These are:
+  * [[:races:Elves]] //(sub types of elf?)//
+  * [[:races:Humans]]
+  * [[:races:Giants]]
+  * [[:races:Mer-people]]

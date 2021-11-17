@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://www.pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia guilds_and_factions</title>
+        <description></description>
+        <link>http://www.pixolestudios.com/wiki/</link>
+        <image rdf:resource="http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2020-12-09T05:12:20-0600</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions:salt_dwellers&amp;rev=1561364148&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions:the_old_folk&amp;rev=1551957904&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>http://www.pixolestudios.com/wiki/</link>
+        <url>http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions:salt_dwellers&amp;rev=1561364148&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T03:15:48-0600</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>guilds_and_factions:salt_dwellers</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions:salt_dwellers&amp;rev=1561364148&amp;do=diff</link>
+        <description>Salt Dwellers
+
+The salt dwellers are an indigenous group who live in the many caves along the east and southern coasts of Ensulasia. They are most active during the night and are therefore not seen often. In appearance, they are very similar to humans although they have larger eyes and webbed digits. They are also able to stay underwater for significantly longer than a human, up to 10 minutes on a single dive. It is thought therefore that they are a</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions:the_old_folk&amp;rev=1551957904&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-07T05:25:04-0600</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>guilds_and_factions:the_old_folk</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions:the_old_folk&amp;rev=1551957904&amp;do=diff</link>
+        <description>The Old Folk
+
+The Old Folk are the most prevalent group of travelers in Ensulasia. The name 'The Old Folk' is a nickname given to them by the citizens of Ensulasia due to their continuation of the old ways. Their culture is based around maintaining the traditional way of life where magic is at the centre of their society and daily routines. They began after the time of the outlawing of magic when they refused to part with their way of life. Rebels for a while and still hunted by the state, they …</description>
+    </item>
+</rdf:RDF>

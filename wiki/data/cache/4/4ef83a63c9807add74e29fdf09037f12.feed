@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://www.pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia</title>
+        <description></description>
+        <link>http://www.pixolestudios.com/wiki/</link>
+        <image rdf:resource="http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-10-21T16:14:28-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=ensulasia&amp;rev=1551956526&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=fauna&amp;rev=1555594513&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=flora&amp;rev=1551352261&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions&amp;rev=1561363794&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=magic&amp;rev=1556111068&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=notes&amp;rev=1552297963&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=people&amp;rev=1556182255&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=places&amp;rev=1551794196&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=prompts&amp;rev=1551972313&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=races&amp;rev=1561363994&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=sidebar&amp;rev=1556110883&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=start&amp;rev=1551456165&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=timeline&amp;rev=1551958270&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=useful_links&amp;rev=1551452075&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=welcome_to_ensulasia&amp;rev=1556108664&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=writing&amp;rev=1555853870&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>http://www.pixolestudios.com/wiki/</link>
+        <url>http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=ensulasia&amp;rev=1551956526&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-07T05:02:06-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>ensulasia</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=ensulasia&amp;rev=1551956526&amp;do=diff</link>
+        <description>Ensulasia
+
+Ensulasia is a fantasy world where magic and the flow of the magical energy through nature is a key element in society.
+
+The use of magic was banned by the empire after the murder of emptyLink at the hands of some dark mages.
+The line of emperors were largely respected by the people of Ensulasia until the banning of magic. This was such a major change to their way of life and practically halted many religions. The banning of magic started a civil war and fractured the south of the con…</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=fauna&amp;rev=1555594513&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-18T08:35:13-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fauna</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=fauna&amp;rev=1555594513&amp;do=diff</link>
+        <description>Fauna
+
+There is a huge abundance of life in Ensulasia, both on land as well as the surrounding seas. Many citizens of Ensulasia do not know the technical names of many of the creatures that live around them so colloquial names are given for many of them. These also translate better between the many different indigenous groups around</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=flora&amp;rev=1551352261&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T05:11:01-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>flora</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=flora&amp;rev=1551352261&amp;do=diff</link>
+        <description>Flora
+
+There is a vast array of plant life in Ensulasia.
+
+Trees
+
+	*  Skywood trees
+
+Flowers
+
+	*  Mountain Thorn
+
+Fungi
+
+Other plants</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions&amp;rev=1561363794&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T03:09:54-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>guilds_and_factions</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions&amp;rev=1561363794&amp;do=diff</link>
+        <description>Guilds and Factions
+
+It is not uncommon in Ensulasia for like-minded individuals to come together and form organisations. There are many groups within Ensulasia inlcuding:
+
+	*  The Old Folk - The travelling outlaws
+
+After the Civil War, many new groups rose to lay their claim to rule Ensulasia or just to form their own states where they can create their own laws. The notable factions are as follows:</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=magic&amp;rev=1556111068&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T08:04:28-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=magic&amp;rev=1556111068&amp;do=diff</link>
+        <description>Magic
+
+Magic (and all its derivatives) play a huge role in the lives of the people of Ensulasia (at least until the events of emptyLink).
+Magic in Ensulasia is thought to be a life essence that flows through all living creatures. Being able to tap into this essence is how you can take advantage of the abilities it can provide you. There are many</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=notes&amp;rev=1552297963&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-11T04:52:43-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>notes</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=notes&amp;rev=1552297963&amp;do=diff</link>
+        <description>Notes
+
+Potential place names
+
+	*  Naystar
+	*  ....mouth (at mouth of some river)
+			*  Tharmouth
+
+	*  Sur....
+	*  Maliford
+	*  Taaskin (maybe person name)
+		*  Taaskin (God of Harvest)
+
+	*  Harstill
+	*  ....ule
+	*  Mist....
+
+Potential people names
+
+	*  Aligna
+	*  Sree</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=people&amp;rev=1556182255&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-25T03:50:55-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>people</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=people&amp;rev=1556182255&amp;do=diff</link>
+        <description>People
+
+Leaders
+
+Citizens
+
+Tharmouth
+
+The notable citizens of Tharmouth are as follows:
+
+	*  Frinly
+
+Hapeston
+
+Hapeston
+
+	*  Mazoon</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=places&amp;rev=1551794196&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-05T07:56:36-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>places</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=places&amp;rev=1551794196&amp;do=diff</link>
+        <description>Places
+
+Ensulasia is a continent on emptyLink surrounded by a large and seemingly endless sea. It is not known whether there are other landmasses beyond, as the sea monsters that live in the deep oceans prevent any ships from being able to travel any significant distance.
+The capital of Ensulasia, in the province of</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=prompts&amp;rev=1551972313&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-07T09:25:13-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>prompts</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=prompts&amp;rev=1551972313&amp;do=diff</link>
+        <description>Prompts
+
+Prompts from /u/Mansardian
+
+Prompts can be found here.
+
+	*  Suppose I'm transported to the most pleasant place in your world; where would I go for lodging, and what should I order off the menu?
+	*  Wandering through one of your world's cities, a thief steals my wallet. I report the incident to a local authority. Who would they be, and what will (Or won't) they do about my stolen wallet?</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=races&amp;rev=1561363994&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T03:13:14-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>races</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=races&amp;rev=1561363994&amp;do=diff</link>
+        <description>Races
+
+There are many humanoid races on Ensulasia. Breeding between these races is generally possible (not always accepted however) which can result in varous hybrid races. These are:
+
+	*  Elves (sub types of elf?)
+	*  Humans
+	*  Giants
+	*  Mer-people</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=sidebar&amp;rev=1556110883&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T08:01:23-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>sidebar</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=sidebar&amp;rev=1556110883&amp;do=diff</link>
+        <description>Navigation
+
+Home
+
+Ensulasia
+
+Timeline
+
+Magic
+
+Deities 
+
+Places
+
+Guilds and Factions
+
+Races
+
+Fauna
+
+Flora</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=start&amp;rev=1551456165&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-01T10:02:45-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>start</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=start&amp;rev=1551456165&amp;do=diff</link>
+        <description>Old starting page - left here for consistency sake, please refer to Welcome to Ensulasia
+
+
+
+
+
+
+
+Welcome!
+
+Welcome to my worldbuilding wiki! This is place I will use to create and catalogue all the lore and information about the fictional world of Ensulasia
+
+note: links which are yet to be named should be filled in with</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=timeline&amp;rev=1551958270&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-07T05:31:10-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>timeline</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=timeline&amp;rev=1551958270&amp;do=diff</link>
+        <description>Timeline
+ Year          Notable events        0        The Eternal War ends                                                    10       emptyLink forms empire                                                                13       emptyLink is murdered and grandson emptyLink comes into power</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=useful_links&amp;rev=1551452075&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-01T08:54:35-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>useful_links</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=useful_links&amp;rev=1551452075&amp;do=diff</link>
+        <description>Useful links
+
+&lt;https://en.wikipedia.org/wiki/List_of_generic_forms_in_place_names_in_Ireland_and_the_United_Kingdom&gt;</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=welcome_to_ensulasia&amp;rev=1556108664&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:24:24-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>welcome_to_ensulasia</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=welcome_to_ensulasia&amp;rev=1556108664&amp;do=diff</link>
+        <description>Welcome!
+
+Welcome to my worldbuilding wiki! This is place I will use to create and catalogue all the lore and information about the fictional world of Ensulasia (pronounced /ɛnsjuːlæsiːʌ/ - Pronunciation tool)
+
+If you came from the Pixole Studios website and wish to return, you can do so</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=writing&amp;rev=1555853870&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-21T08:37:50-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>writing</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=writing&amp;rev=1555853870&amp;do=diff</link>
+        <description>Writing
+
+In-world documents
+
+These are documents which exist in the world of Ensulasia (such as diary entries and letters or even some books).
+
+Extended lore
+
+These are additional documents I have created set in Ensulasia (such as short stories) which are all canon.</description>
+    </item>
+</rdf:RDF>

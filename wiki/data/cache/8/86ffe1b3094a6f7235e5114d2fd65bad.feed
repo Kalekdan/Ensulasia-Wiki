@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://mail.pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://mail.pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia places</title>
+        <description></description>
+        <link>https://mail.pixolestudios.com/wiki/</link>
+        <image rdf:resource="https://mail.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2020-08-19T18:49:27-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://mail.pixolestudios.com/wiki/doku.php?id=places:hapeston&amp;rev=1556110606&amp;do=diff"/>
+                <rdf:li rdf:resource="https://mail.pixolestudios.com/wiki/doku.php?id=places:tharmouth&amp;rev=1552994791&amp;do=diff"/>
+                <rdf:li rdf:resource="https://mail.pixolestudios.com/wiki/doku.php?id=places:the_grey_dog&amp;rev=1556110018&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://mail.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>https://mail.pixolestudios.com/wiki/</link>
+        <url>https://mail.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://mail.pixolestudios.com/wiki/doku.php?id=places:hapeston&amp;rev=1556110606&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:56:46-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>places:hapeston</title>
+        <link>https://mail.pixolestudios.com/wiki/doku.php?id=places:hapeston&amp;rev=1556110606&amp;do=diff</link>
+        <description>Hapeston
+
+Hapeston is a small hamlet a few miles north of Tharmouth on the south west coast of Ensulasia. It is a relatively rural place with most of the population being farmers and fishermen. It is also home to the bards college.</description>
+    </item>
+    <item rdf:about="https://mail.pixolestudios.com/wiki/doku.php?id=places:tharmouth&amp;rev=1552994791&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-19T06:26:31-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>places:tharmouth</title>
+        <link>https://mail.pixolestudios.com/wiki/doku.php?id=places:tharmouth&amp;rev=1552994791&amp;do=diff</link>
+        <description>Tharmouth
+
+Tharmouth is the capital of Ensulasia and the home of the empire. Originally a collections of small settlements, Tharmouth was the largest and therefore the name which was kept when they merged many years ago. The districts within Tharmouth still retain some names relating to the original settlements that formed the new city.</description>
+    </item>
+    <item rdf:about="https://mail.pixolestudios.com/wiki/doku.php?id=places:the_grey_dog&amp;rev=1556110018&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:46:58-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>places:the_grey_dog</title>
+        <link>https://mail.pixolestudios.com/wiki/doku.php?id=places:the_grey_dog&amp;rev=1556110018&amp;do=diff</link>
+        <description>The Grey Dog
+
+The most popular pub among locals in Tharmouth, The Grey Dog is often full of workers and soldiers alike at the end of a long day. It is a frequent spot for many of the guards of the empire. Mazoon is a travelling bard who often spends evenings in The Grey Dog performing for locals.</description>
+    </item>
+</rdf:RDF>

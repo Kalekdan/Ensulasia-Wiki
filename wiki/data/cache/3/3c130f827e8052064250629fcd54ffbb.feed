@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia magic</title>
+        <description></description>
+        <link>https://pixolestudios.com/wiki/</link>
+        <image rdf:resource="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2020-06-27T06:33:58-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=magic:deities&amp;rev=1552296570&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients&amp;rev=1552043530&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=magic:potions&amp;rev=1552043751&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=magic:soul_magic&amp;rev=1551117780&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>https://pixolestudios.com/wiki/</link>
+        <url>https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=magic:deities&amp;rev=1552296570&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-11T04:29:30-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:deities</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=magic:deities&amp;rev=1552296570&amp;do=diff</link>
+        <description>Deities
+
+Deities are said to be the only beings made up entirely of magic essence and will impart it only to their most loyal followers. Anybody can request of a deity but most will not recieve. The most well known of magical beings are the Gods of the various religions in</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients&amp;rev=1552043530&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-08T05:12:10-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:ingredients</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=magic:ingredients&amp;rev=1552043530&amp;do=diff</link>
+        <description>Ingredients
+
+Various combinations of different quantities of ingredients are used to create potions. The ingredients used include:
+
+	*  Algrex barbs
+	*  Carpet leech
+	*  Cartine horns
+	*  Nitari feathers</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=magic:potions&amp;rev=1552043751&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-08T05:15:51-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:potions</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=magic:potions&amp;rev=1552043751&amp;do=diff</link>
+        <description>Potions
+
+Extracting essence from substances can produce a liquid which can then be used to give whoever consumes it, magical effects or abilities. The effect that each ingredient will provide is different, and combinations of these ingredients can lead to even more variations. This is one of the reasons why it can take years studying potions before one is even able to create a simple</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=magic:soul_magic&amp;rev=1551117780&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-25T12:03:00-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:soul_magic</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=magic:soul_magic&amp;rev=1551117780&amp;do=diff</link>
+        <description>Soul Magic
+
+Whilst not strictly magic, soul magic is a means of achieving magic-like abilities and powers without earning it through favor with a magical being or through study of the life-force in all living creatures. Soul magic is, and always has been, even before the banning of magic as a whole, a forbidden art. The strength of one who studies soul magic receives comes from draining magic essence from living things. This is done through inflicting suffering and even causing death. The purer …</description>
+    </item>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+====== Guilds and Factions ======
+It is not uncommon in [[:Ensulasia]] for like-minded individuals to come together and form organisations. There are many groups within [[:Ensulasia]] inlcuding:
+
+  * [[guilds_and_factions:the_old_folk|The Old Folk]] - The travelling outlaws
+
+After the [[:notableEvents:Civil War]], many new groups rose to lay their claim to rule [[:Ensulasia]] or just to form their own states where they can create their own laws. The notable factions are as follows:
+
+  * [[:emptyLink]] //(believe they should rule entirety of ensulasia)//
+  * [[:emptyLink]] //(want similar rule to old emporer - magic allowed, one with nature) - Dont want to be single ruler, just want ability to have own state//
+  * [[:emptyLink]] //("no leader" - free people - want to dethrone all other leaders especially empire)//
+  * [[:emptyLink]] //(believe their race is superior - do not like mixing)//
+
+On top of these, there are many indigenous groups, most of whom existed long before the events of the [[:notableEvents:Civil War]]:
+
+  * [[:emptyLink]] //(live in Skywood trees)//
+  * [[:guilds_and_factions:Salt dwellers]]
+  * [[:emptyLink]]
+  * [[:emptyLink]]

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://www.pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia</title>
+        <description></description>
+        <link>http://www.pixolestudios.com/wiki/</link>
+        <image rdf:resource="http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2021-07-09T18:05:47-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=notes&amp;rev=1581008370&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=fauna:cartines&amp;rev=1579019921&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?image=fauna%3Acartine.png&amp;ns=fauna&amp;rev=1579019801&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=magic:deities:satri&amp;rev=1561371098&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=magic:deities:taaskin&amp;rev=1561371012&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=races:mer-people&amp;rev=1561370561&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=races:hybrid_races&amp;rev=1561364435&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions:salt_dwellers&amp;rev=1561364148&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=races&amp;rev=1561363994&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions&amp;rev=1561363794&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=people&amp;rev=1556182255&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=sidebar&amp;rev=1556110883&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=people:mazoon&amp;rev=1556110718&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=places:hapeston&amp;rev=1556110606&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.pixolestudios.com/wiki/doku.php?id=people:frinly&amp;rev=1556110072&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>http://www.pixolestudios.com/wiki/</link>
+        <url>http://www.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=notes&amp;rev=1581008370&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2020-02-06T10:59:30-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>notes</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=notes&amp;rev=1581008370&amp;do=diff</link>
+        <description>Notes
+
+Potential place names
+
+	*  Naystar
+	*  ....mouth (at mouth of some river)
+			*  Tharmouth
+
+	*  Sur....
+	*  Maliford
+	*  Taaskin (maybe person name)
+		*  Taaskin (God of Harvest)
+
+	*  Harstill
+	*  ....ule
+	*  Mist....
+
+Potential people names
+
+	*  Aligna
+	*  Sree</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=fauna:cartines&amp;rev=1579019921&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2020-01-14T10:38:41-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>fauna:cartines</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=fauna:cartines&amp;rev=1579019921&amp;do=diff</link>
+        <description>Cartines
+
+A Cartine is a large horse like creature with two large horns running up the center of its nose. An adult Cartine is 6-8m tall and its diet consists mainly of grasses and shrubbery. In the wild they live in groups of 4 or 5 adults with a single male and the rest females. The horns are used in fights between rivals but also offer protection from predators. If they feel threatened, a group of Cartines will stand in a circle all facing outwards to form a relatively impenetrable circle.</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?image=fauna%3Acartine.png&amp;ns=fauna&amp;rev=1579019801&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2020-01-14T10:36:41-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>fauna:cartine.png - created</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?image=fauna%3Acartine.png&amp;ns=fauna&amp;rev=1579019801&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.pixolestudios.com/wiki/lib/exe/fetch.php?w=500&amp;h=281&amp;t=1579019801&amp;amp;tok=b43e94&amp;amp;media=fauna:cartine.png&quot; alt=&quot;fauna:cartine.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=magic:deities:satri&amp;rev=1561371098&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T05:11:38-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>magic:deities:satri - created</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=magic:deities:satri&amp;rev=1561371098&amp;do=diff</link>
+        <description>Satri
+
+Satri is the emptyLink god of magic and life. She is considered by many the most powerful deity as she supposedly created all life including the other magical beings.</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=magic:deities:taaskin&amp;rev=1561371012&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T05:10:12-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>magic:deities:taaskin</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=magic:deities:taaskin&amp;rev=1561371012&amp;do=diff</link>
+        <description>Taaskin
+
+Taaskin is the emptyLink god of harvest. He is one of the most prayed to deities as he helps the vast agricultural population of Ensulasia. He is often portrayed as an elderly man with curled ram horns and a shepherds crook in hand.
+To earn favor with Taaskin many farmers hold regular ceremonies to him and will offer a portion of their yield as thanks, either through burning of crops, or animal sacrifices.</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=races:mer-people&amp;rev=1561370561&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T05:02:41-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>races:mer-people</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=races:mer-people&amp;rev=1561370561&amp;do=diff</link>
+        <description>Mer-people
+
+The mer-people are a race of aquatic humanoids who live in the seas around Ensulasia as well as in some of the larger lakes inland.
+They have large eyes which allow them to see better in low light deep underwater. They also have webbed fingers and toes with longer digits which helps to propel them through the water. They are able to breath underwater and thus spend most of their time there, but they are also able to spend short a short amount of time (around 1 day) out of the water.</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=races:hybrid_races&amp;rev=1561364435&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T03:20:35-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>races:hybrid_races - created</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=races:hybrid_races&amp;rev=1561364435&amp;do=diff</link>
+        <description>Hybrid races
+
+It is not uncommon for many of the humanoid races in Ensulasia to breed together, though many citizens of Ensulasia, particularly those close to the empire are not keen on this. The indigenous group known as the salt dwellers are thought to be a hybrid race between the</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions:salt_dwellers&amp;rev=1561364148&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T03:15:48-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>guilds_and_factions:salt_dwellers - created</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions:salt_dwellers&amp;rev=1561364148&amp;do=diff</link>
+        <description>Salt Dwellers
+
+The salt dwellers are an indigenous group who live in the many caves along the east and southern coasts of Ensulasia. They are most active during the night and are therefore not seen often. In appearance, they are very similar to humans although they have larger eyes and webbed digits. They are also able to stay underwater for significantly longer than a human, up to 10 minutes on a single dive. It is thought therefore that they are a</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=races&amp;rev=1561363994&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T03:13:14-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>races</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=races&amp;rev=1561363994&amp;do=diff</link>
+        <description>Races
+
+There are many humanoid races on Ensulasia. Breeding between these races is generally possible (not always accepted however) which can result in varous hybrid races. These are:
+
+	*  Elves (sub types of elf?)
+	*  Humans
+	*  Giants
+	*  Mer-people</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions&amp;rev=1561363794&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T03:09:54-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>guilds_and_factions</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=guilds_and_factions&amp;rev=1561363794&amp;do=diff</link>
+        <description>Guilds and Factions
+
+It is not uncommon in Ensulasia for like-minded individuals to come together and form organisations. There are many groups within Ensulasia inlcuding:
+
+	*  The Old Folk - The travelling outlaws
+
+After the Civil War, many new groups rose to lay their claim to rule Ensulasia or just to form their own states where they can create their own laws. The notable factions are as follows:</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=people&amp;rev=1556182255&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-25T03:50:55-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>people</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=people&amp;rev=1556182255&amp;do=diff</link>
+        <description>People
+
+Leaders
+
+Citizens
+
+Tharmouth
+
+The notable citizens of Tharmouth are as follows:
+
+	*  Frinly
+
+Hapeston
+
+Hapeston
+
+	*  Mazoon</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=sidebar&amp;rev=1556110883&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T08:01:23-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>sidebar</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=sidebar&amp;rev=1556110883&amp;do=diff</link>
+        <description>Navigation
+
+Home
+
+Ensulasia
+
+Timeline
+
+Magic
+
+Deities 
+
+Places
+
+Guilds and Factions
+
+Races
+
+Fauna
+
+Flora</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=people:mazoon&amp;rev=1556110718&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:58:38-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>people:mazoon</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=people:mazoon&amp;rev=1556110718&amp;do=diff</link>
+        <description>Mazoon
+
+An Elfish man originally from Hapeston, Mazoon trained as a bard and traveled around Ensulasia performing in many different venues. Since the Civil War however, Mazoon tends to stick to performing in inns and buildings closer to his hometown in the south west. He is generally oblivious to the politics which caused the war but has found his</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=places:hapeston&amp;rev=1556110606&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:56:46-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>places:hapeston - created</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=places:hapeston&amp;rev=1556110606&amp;do=diff</link>
+        <description>Hapeston
+
+Hapeston is a small hamlet a few miles north of Tharmouth on the south west coast of Ensulasia. It is a relatively rural place with most of the population being farmers and fishermen. It is also home to the bards college.</description>
+    </item>
+    <item rdf:about="http://www.pixolestudios.com/wiki/doku.php?id=people:frinly&amp;rev=1556110072&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:47:52-0500</dc:date>
+        <dc:creator>kalekdan (kalekdan@undisclosed.example.com)</dc:creator>
+        <title>people:frinly</title>
+        <link>http://www.pixolestudios.com/wiki/doku.php?id=people:frinly&amp;rev=1556110072&amp;do=diff</link>
+        <description>Frinly
+
+An elderly human man, and the owner and barkeep at The Grey Dog, Frinly has lived in Tharmouth all his life. Frinly is a strong advocate for the empire and will often talk of their greatness whilst serving at his bar. He lives alone having lost his children and wife during the</description>
+    </item>
+</rdf:RDF>

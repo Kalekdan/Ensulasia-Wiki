@@ -1,0 +1,6 @@
+====== Ingredients ======
+Various combinations of different quantities of ingredients are used to create [[:magic:potions]]. The ingredients used include:
+  * [[:magic:ingredients:Algrex barbs]]
+  * [[:magic:ingredients:Carpet leech]]
+  * [[:magic:ingredients:Cartine horns]]
+  * [[:magic:ingredients:Nitari feathers]]

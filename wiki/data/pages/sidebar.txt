@@ -1,0 +1,12 @@
+====== Navigation ======
+
+[[:welcome to ensulasia|Home]]\\ 
+[[:Ensulasia]]\\ 
+[[:Timeline]]\\ 
+[[:Magic]]\\
+[[:Magic:Deities]] \\
+[[:Places]]\\
+[[:Guilds and Factions]]\\ 
+[[:Races]]\\ 
+[[:Fauna]]\\ 
+[[:Flora]]\\ 

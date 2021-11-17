@@ -1,0 +1,23 @@
+====== Magic ======
+
+Magic (and all its derivatives) play a huge role in the lives of the people of [[Ensulasia]] (at least until the events of [[:emptyLink]]).
+Magic in [[Ensulasia]] is thought to be a life essence that flows through all living creatures. Being able to tap into this essence is how you can take advantage of the abilities it can provide you. There are many [[:magic#doctrines of magic|schools of thought]] in harnessing this flow, some of which are more effective than others.
+
+===== Doctrines of Magic =====
+==== Potions ====
+The use of [[:magic:potions]] was one of the first recorded instances of magic. The aim of potion making is to extract the essence from the [[:magic:ingredients]] and distill it into a physical form which can then be used for temporary magical effects.
+
+==== Incantations ====
+Some mages have managed to channel the essence that is contained within their own being through the use of spoken words. These [[:magic:incantations]] are incredibly powerful to those that master it and are limited only by the amount of essence you, as an individual, contain.
+
+==== Runes ====
+Similar to incantations, magic is instead channeled into symbolism (most often in books or engravings) called [[:magic:runes]]. With a simple incantation, this rune can be recreated and the spell will be performed. This is a means of magic often used by mages wishing to sell their creations to those less capable at performing magic through incantations or potion making.
+
+==== Prayer and meditation ====
+One of the most popular means to gain magical abilities although incredibly weak to those who have not studied intently. The magic come from requesting the [[magic:deities]] to provide you access to a small portion of their essence and perform a magic feat on your behalf. Those with more favor with a deity will find their [[magic:prayer|prayers]] more effective. Many civilians would make use of this to try and heal loved ones, or [[magic:prayer|pray]] for a better harvest. This is the only form of magic still 'allowed' after [[:emptyLink]] but is far from encouraged. If there is any evidence of your prayer having an effect (if you succeed in tapping into the essence flow) you are deemed an enemy of the state, and risk being punished as such. So whilst prayer is allowed, any effect from it is not so many chose to relinquish their faiths for fear of the repercussions.
+
+==== Relics ====
+Throughout history, mages who have ascended to incredible levels of power, have needed to impart some of their magical essence so as not to destroy themselves. This is most often done into artifacts which can live on far beyond the death of the mage who created them. If located, these can be used to harness some of the magic of the creators and perform some magical feats oneself.
+
+==== Soul 'Magic' ====
+Not strictly 'magic' due to it not requiring any of the life essence that runs through living creatures, [[magic:soul magic|soul magic]] is the act of drawing power by causing suffering and death in others. It is, and always has been, a forbidden art but that has not stopped many from attempting to master it in secret.

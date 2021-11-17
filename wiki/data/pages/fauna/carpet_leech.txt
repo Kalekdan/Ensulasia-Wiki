@@ -1,0 +1,4 @@
+====== Carpet Leech ======
+The carpet leech is always a fear for any individual travelling through the deeper parts of the jungles in [[:Ensulasia]]. Despite being completely blind, the carpet leech is incredibly sensitive to vibrations in close proximity to itself. Carpet leeches exist in large colonies and will spread themselves over a 4-5m square area of jungle floor. Their leafy brown skin makes them difficult to spot especially to the untrained eye. Any animal unlucky enough to step within detectable range of a single leech from the colony is immediately swarmed by the entirety of the colony. An individual carpet leech can launch itself a couple of meters in a single jump.
+
+Carpet leeches are also used as an ingredient in potion making (see [[:magic:ingredients:carpet leech]])

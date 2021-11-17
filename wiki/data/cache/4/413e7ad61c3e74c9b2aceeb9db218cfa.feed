@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia races</title>
+        <description></description>
+        <link>https://pixolestudios.com/wiki/</link>
+        <image rdf:resource="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-10-21T07:42:35-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=races:elves&amp;rev=1556109240&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=races:giants&amp;rev=1556109731&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=races:humans&amp;rev=1556109414&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=races:hybrid_races&amp;rev=1561364435&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=races:mer-people&amp;rev=1561370561&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>https://pixolestudios.com/wiki/</link>
+        <url>https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=races:elves&amp;rev=1556109240&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:34:00-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>races:elves</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=races:elves&amp;rev=1556109240&amp;do=diff</link>
+        <description>Elves
+
+The Elves are one of the most prevalent races in Ensulasia (as well as humans). They have lived alongside humans for centuries. Elves are naturally very wise and logical, sometimes leading them to be considered cold. The humans on the other hand are generally much more aware of morals and as such the two races have been very successful together.</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=races:giants&amp;rev=1556109731&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:42:11-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>races:giants</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=races:giants&amp;rev=1556109731&amp;do=diff</link>
+        <description>Giants
+
+Not as common as Elves and Humans, giants are more often from smaller independent tribes and do not tend to live amongst the larger civilizations. There are some giants who live with the other races, and some settlements where they are more accepted, but in general, many people in</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=races:humans&amp;rev=1556109414&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-24T07:36:54-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>races:humans</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=races:humans&amp;rev=1556109414&amp;do=diff</link>
+        <description>Humans
+
+One of the most common humanoid races in Ensulasia, the humans are generally most known for their compassion and curiosity. In general, humans live alongside Elves.
+
+Some of the strongest mages in history have been humans due to their inquisitive nature and ability to embrace and comprehend their inner life essence.</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=races:hybrid_races&amp;rev=1561364435&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T03:20:35-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>races:hybrid_races</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=races:hybrid_races&amp;rev=1561364435&amp;do=diff</link>
+        <description>Hybrid races
+
+It is not uncommon for many of the humanoid races in Ensulasia to breed together, though many citizens of Ensulasia, particularly those close to the empire are not keen on this. The indigenous group known as the salt dwellers are thought to be a hybrid race between the</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=races:mer-people&amp;rev=1561370561&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T05:02:41-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>races:mer-people</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=races:mer-people&amp;rev=1561370561&amp;do=diff</link>
+        <description>Mer-people
+
+The mer-people are a race of aquatic humanoids who live in the seas around Ensulasia as well as in some of the larger lakes inland.
+They have large eyes which allow them to see better in low light deep underwater. They also have webbed fingers and toes with longer digits which helps to propel them through the water. They are able to breath underwater and thus spend most of their time there, but they are also able to spend short a short amount of time (around 1 day) out of the water.</description>
+    </item>
+</rdf:RDF>

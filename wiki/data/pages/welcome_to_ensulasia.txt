@@ -1,0 +1,30 @@
+====== Welcome! ======
+Welcome to my worldbuilding wiki! This is place I will use to create and catalogue all the lore and information about the fictional world of [[Ensulasia]] (pronounced /ɛnsjuːlæsiːʌ/ - [[https://itinerarium.github.io/phoneme-synthesis/?w=/ɛnsjuːlæsiːʌ/|Pronunciation tool]])
+
+If you came from the Pixole Studios website and wish to return, you can do so [[https://www.pixolestudios.com|here.]]
+
+===== Explore =====
+
+[[Magic]]\\ 
+[[Timeline]]\\ 
+[[Places]]\\ 
+[[People]]\\ 
+[[Guilds and Factions]]\\ 
+[[Races]]\\ 
+[[Fauna]]\\ 
+[[Flora]]\\ 
+
+===== Worldbuilding =====
+[[Prompts]] - Whilst mostly for personal use to help flesh out the world of [[Ensulasia]], more focused details can be found here which may be of interest to some.\\ 
+[[Notes]] - Mostly for just getting some stuff off my brain and written down, most of this content will end up sorted into actual wiki articles eventually.\\ 
+[[Useful links]] - Places that may be useful to refer to when developing a world.
+\\ 
+[[Writing]] - Documents that are found in the world of [[:Ensulasia]] as well as some stories set in [[:Ensulasia]]
+\\
+
+===== Using/Editing this Wiki =====
+Top level pages exist for each of the major categories such as [[Magic]], [[People]], [[Fauna]], [[Flora]] etc. 'Sub pages' within each category are located under the namespace of the same name as their parent page. Exceptions to this are potions, ingredients and deities which are linked to by ''[[:magic:potions:potion name]]'' and ''[[:magic:ingredients:ingredient name]]'' respectively etc.
+
+**Note:** links which are yet to be named should be filled in with [[:emptyLink]]. Then can go reverse check all links like this and add names when decided
+
+Inline notes will generally be marked using //(italics and brackets)// and should be removed once information is stored properly in the wiki.

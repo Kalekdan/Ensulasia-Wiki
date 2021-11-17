@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia fauna</title>
+        <description></description>
+        <link>https://pixolestudios.com/wiki/</link>
+        <image rdf:resource="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-10-21T07:41:32-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=fauna:algrex&amp;rev=1551367813&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=fauna:carpet_leech&amp;rev=1551440248&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=fauna:cartines&amp;rev=1552043513&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=fauna:glitor_frog&amp;rev=1555594817&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=fauna:nitari&amp;rev=1551886343&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>https://pixolestudios.com/wiki/</link>
+        <url>https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=fauna:algrex&amp;rev=1551367813&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T09:30:13-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fauna:algrex</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=fauna:algrex&amp;rev=1551367813&amp;do=diff</link>
+        <description>Algrex
+
+The Algrex are a squid like creature with four tentacles with a barbed end to each that live in the oceans surrounding Ensulasia. An adult Algrex can grow up to 3m long and live up to 5 years. Algrex are carnivorous creatures that hunt in packs of 5 or 6 to eat sea creatures significantly larger than themselves. They latch on to their prey (normally whales and other large slow moving creatures) and embed their barbed tentacles into its skin. From here they will begin to digest the animal…</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=fauna:carpet_leech&amp;rev=1551440248&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-01T05:37:28-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fauna:carpet_leech</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=fauna:carpet_leech&amp;rev=1551440248&amp;do=diff</link>
+        <description>Carpet Leech
+
+The carpet leech is always a fear for any individual travelling through the deeper parts of the jungles in Ensulasia. Despite being completely blind, the carpet leech is incredibly sensitive to vibrations in close proximity to itself. Carpet leeches exist in large colonies and will spread themselves over a 4-5m square area of jungle floor. Their leafy brown skin makes them difficult to spot especially to the untrained eye. Any animal unlucky enough to step within detectable range o…</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=fauna:cartines&amp;rev=1552043513&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-08T05:11:53-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fauna:cartines</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=fauna:cartines&amp;rev=1552043513&amp;do=diff</link>
+        <description>Cartines
+
+A Cartine is a large horse like creature with two large horns running up the center of its nose. An adult Cartine is 6-8m tall and its diet consists mainly of grasses and shrubbery. In the wild they live in groups of 4 or 5 adults with a single male and the rest females. The horns are used in fights between rivals but also offer protection from predators. If they feel threatened, a group of Cartines will stand in a circle all facing outwards to form a relatively impenetrable circle.</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=fauna:glitor_frog&amp;rev=1555594817&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-18T08:40:17-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fauna:glitor_frog</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=fauna:glitor_frog&amp;rev=1555594817&amp;do=diff</link>
+        <description>Glitor Frog
+
+The Glitor Frog is an amphibious creature with webbing between its front and rear legs allowing it to glide between the trees where it spends most of its time. It eats flies and other small insects which it catches by launching its tongue out of its mouth and pulling them into its mouth using the sticky surface of its tongue. It is also able to do this whilst gliding making it able to catch insects a long way from any surface.</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=fauna:nitari&amp;rev=1551886343&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-06T09:32:23-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fauna:nitari</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=fauna:nitari&amp;rev=1551886343&amp;do=diff</link>
+        <description>Nitari
+
+Nitari are a species of bird in Ensulasia found in any forested area of the continent. They tend to nest high up in trees to protect themselves from predators as they are quite easy to spot at night. During the day, the Nitari are very plain looking black birds with long tail feathers but when the sun sets, these feathers glow in vibrant colors.  The tail feathers spread into a fan when the bird flies to help stabilize in the air but it can also raise its feathers to create a brilliant d…</description>
+    </item>
+</rdf:RDF>

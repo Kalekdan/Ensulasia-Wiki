@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia magic:deities</title>
+        <description></description>
+        <link>http://pixolestudios.com/wiki/</link>
+        <image rdf:resource="http://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-08-25T16:38:19-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://pixolestudios.com/wiki/doku.php?id=magic:deities:satri&amp;rev=1561371098&amp;do=diff"/>
+                <rdf:li rdf:resource="http://pixolestudios.com/wiki/doku.php?id=magic:deities:taaskin&amp;rev=1561371012&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>http://pixolestudios.com/wiki/</link>
+        <url>http://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://pixolestudios.com/wiki/doku.php?id=magic:deities:satri&amp;rev=1561371098&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T05:11:38-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:deities:satri</title>
+        <link>http://pixolestudios.com/wiki/doku.php?id=magic:deities:satri&amp;rev=1561371098&amp;do=diff</link>
+        <description>Satri
+
+Satri is the emptyLink god of magic and life. She is considered by many the most powerful deity as she supposedly created all life including the other magical beings.</description>
+    </item>
+    <item rdf:about="http://pixolestudios.com/wiki/doku.php?id=magic:deities:taaskin&amp;rev=1561371012&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-06-24T05:10:12-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:deities:taaskin</title>
+        <link>http://pixolestudios.com/wiki/doku.php?id=magic:deities:taaskin&amp;rev=1561371012&amp;do=diff</link>
+        <description>Taaskin
+
+Taaskin is the emptyLink god of harvest. He is one of the most prayed to deities as he helps the vast agricultural population of Ensulasia. He is often portrayed as an elderly man with curled ram horns and a shepherds crook in hand.
+To earn favor with Taaskin many farmers hold regular ceremonies to him and will offer a portion of their yield as thanks, either through burning of crops, or animal sacrifices.</description>
+    </item>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://mail.pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://mail.pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia documents</title>
+        <description></description>
+        <link>https://mail.pixolestudios.com/wiki/</link>
+        <image rdf:resource="https://mail.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2020-05-02T06:29:52-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://mail.pixolestudios.com/wiki/doku.php?id=documents:forest_fire&amp;rev=1555853774&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://mail.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>https://mail.pixolestudios.com/wiki/</link>
+        <url>https://mail.pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://mail.pixolestudios.com/wiki/doku.php?id=documents:forest_fire&amp;rev=1555853774&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-04-21T08:36:14-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>documents:forest_fire</title>
+        <link>https://mail.pixolestudios.com/wiki/doku.php?id=documents:forest_fire&amp;rev=1555853774&amp;do=diff</link>
+        <description>Forest Fire
+
+Amber tendrils licked the night sky. Sparks of golden light danced between the trees. There would be nothing left. Was it better that way? Movement. A lone deer dashed past on his right, eyes wide and glowing. Fight or flight, he supposed. Natures method of self-preservation. Do you run or do you stand your ground? Akna was not a coward. He stood, entranced by the flames. The heat was relentless. A tree collapsed beside him, showering him in sparks and shaking him from his stupor. H…</description>
+    </item>
+</rdf:RDF>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://pixolestudios.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://pixolestudios.com/wiki/feed.php">
+        <title>Ensulasia magic:ingredients</title>
+        <description></description>
+        <link>https://pixolestudios.com/wiki/</link>
+        <image rdf:resource="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2019-10-21T07:48:15-0500</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:algrex_barbs&amp;rev=1551367740&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:carpet_leech&amp;rev=1551792527&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:cartine_horns&amp;rev=1552043657&amp;do=diff"/>
+                <rdf:li rdf:resource="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:nitari_feathers&amp;rev=1551886434&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Ensulasia</title>
+        <link>https://pixolestudios.com/wiki/</link>
+        <url>https://pixolestudios.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:algrex_barbs&amp;rev=1551367740&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-02-28T09:29:00-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:ingredients:algrex_barbs</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:algrex_barbs&amp;rev=1551367740&amp;do=diff</link>
+        <description>Algrex Barbs
+
+Often found on beaches along the shores of Ensulasia, Algrex barbs are the remains from dead Algrex. Algrex barbs are quite a plentiful ingredient, due to the prevalence of Algrex in the oceans, and do not spoil once collected making them a standard in any</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:carpet_leech&amp;rev=1551792527&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-05T07:28:47-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:ingredients:carpet_leech</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:carpet_leech&amp;rev=1551792527&amp;do=diff</link>
+        <description>Carpet Leech (ingredient)
+
+Carpet leeches, whilst fairly high in number, are difficult to obtain due to the danger a colony of them can pose. They are however, very useful in many potions.
+
+From a carpet leech, essence is extracted in a couple of ways. Most commonly the leech is dried and then ground into a fine powder. In some more complex recipes, the carpet leech is squashed to extract the blood. One must take care that the leech has not eaten recently when creating potions using this ingredi…</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:cartine_horns&amp;rev=1552043657&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-08T05:14:17-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:ingredients:cartine_horns</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:cartine_horns&amp;rev=1552043657&amp;do=diff</link>
+        <description>Cartine horns
+
+Cartine horns are taken from an adult Cartine and are an important ingredient used in some potions. They are most often ground into a powder but sometimes they are left in a solution to infuse it instead.</description>
+    </item>
+    <item rdf:about="https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:nitari_feathers&amp;rev=1551886434&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2019-03-06T09:33:54-0500</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>magic:ingredients:nitari_feathers</title>
+        <link>https://pixolestudios.com/wiki/doku.php?id=magic:ingredients:nitari_feathers&amp;rev=1551886434&amp;do=diff</link>
+        <description>Nitari feathers
+
+Dropped from Nitari birds, these vibrant feathers are a commonly used ingredient in many potions, especially those which give off some type of luminescence.</description>
+    </item>
+</rdf:RDF>

@@ -1,0 +1,9 @@
+====== Writing ======
+===== In-world documents =====
+
+These are documents which //exist in// the world of [[:Ensulasia]] (such as diary entries and letters or even some books).
+
+===== Extended lore =====
+These are additional documents I have created //set in// [[:Ensulasia]] (such as short stories) which are all canon.
+
+ - [[:documents:Forest Fire]] - (A short story)
